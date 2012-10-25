@@ -1,0 +1,7 @@
+#Doing a blacklist over whitelist, as it would get real annoying real quick to
+#	whitelist every launcher etc
+
+*.pkg.*
+*/src
+*/pkg
+*.7z
